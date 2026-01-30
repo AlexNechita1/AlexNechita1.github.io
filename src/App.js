@@ -71,9 +71,10 @@ function App() {
       </div>
       
       <footer style={{ textAlign: 'center', marginTop: '60px', color: '#64748b' }}>
-        <p>© 2024 Alex Nechita - Built with React</p>
-      </div>
+        <p>© 2025 Alex Nechita </p>
+      </footer> 
     </div>
+
   );
 }
 
